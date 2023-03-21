@@ -107,19 +107,6 @@ Finally, start the development server by running the following command:
 
 ## **Here are some output images:**
 
-
-### **Disply all Records**
-
-![Disply Records](screenshots/all_records.png)
-
-### **Create new Records**
-
-![Create new Records](screenshots/create.png)
-
-### **Edit all Records**
-
-![Edit Records](screenshots/edit.png)
-
 ### **View Single Records**
 
 ![View Records](screenshots/view.png)
