@@ -72,21 +72,14 @@ Open XAMPP Control Panel and start Apache and MySQL services.
 
 ![XAMPP Control Panel](screenshots/step_9.png)
 
-### **Step 9: Create Database and update the database connection settings**
-Open phpMyAdmin and create a new database. In the .env file, update the database connection settings to match your local database setup.
-
-![Create Database](screenshots/step_10.png)
-
-![Update connection setting](screenshots/step_11.png)
-
-### **Step 10: Migrate all migrations**
+### **Step 9: Migrate all migrations**
 Run the following command to migrate the database:
 
     $ php artisan migrate
 
 ![Migrate database](screenshots/step_12.png)
 
-### **Step 11: Start Development Server**
+### **Step 10: Start Development Server**
 Finally, start the development server by running the following command:
 
     $ php artisan serve
@@ -96,8 +89,6 @@ Finally, start the development server by running the following command:
 <br />
 
 ## **Here are some output images:**
-
-### **View Single Records**
 
 ![View Records](User Profile CV.png)
 
