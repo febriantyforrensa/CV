@@ -101,15 +101,13 @@ Finally, start the development server by running the following command:
 
 ![Start Server](screenshots/step_13.png)
 
-![Start Server](screenshots/step_14.png)
-
 <br />
 
 ## **Here are some output images:**
 
 ### **View Single Records**
 
-![View Records](screenshots/view.png)
+![View Records](User Profile CV.png)
 
 <br />
 
